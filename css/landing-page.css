@@ -21,6 +21,10 @@ h6 {
     font-weight: 700;
 }
 
+li {
+  font-size:18px;
+}
+
 .topnav {
     font-size: 14px;
     background-color:#262f34;
@@ -119,7 +123,7 @@ h6 {
 .banner {
     padding: 100px 0;
     color: #f8f8f8;
-    background: url(../img/banner-bg.jpg) no-repeat center center;
+    background: url(../img/pattern.svg) no-repeat center center;
     background-size: cover;
 }
 
